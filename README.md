@@ -1,4 +1,4 @@
-![alt data4](https://media.licdn.com/media/p/6/005/06f/0e0/350be57.png) # DATA4 Internship Front-end
+# DATA4 Internship Front-end ![alt data4](https://media.licdn.com/media/p/6/005/06f/0e0/350be57.png)
 ## *Departamento de Data Driven Web Platforms*
 
 DATA4 convierte datos en información accionable por medio de plataformas de recolección, processamiento, análisis y visualización de información, con principal enfoque en periodismo de datos, marketing científico y gobernanza.
@@ -61,7 +61,7 @@ La gráfica debe redibujarse cuando cambie el estado seleccionado, el año o la 
 Compartir el repositorio de Git en el que esté el código y si es posible, subir el proyecto usando un PaaS como Heroku u OpenShift.
 
 **Mockup de la gráfica**
-![alt mockup](blob:https%3A//mail.google.com/cbe1c5ec-5cd6-47fa-83f5-edf5917d2a7b)
+![alt mockup](assets/pruebaD3.jpg)
 
 
 
