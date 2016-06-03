@@ -1,4 +1,4 @@
-# DATA4 Internship Front-end ![alt data4](https://media.licdn.com/media/p/6/005/06f/0e0/350be57.png)
+# DATA4 Front-end Data Vis Developer![alt data4](https://media.licdn.com/media/p/6/005/06f/0e0/350be57.png)
 ## *Departamento de Data Driven Web Platforms*
 
 [DATA4](http://data4.mx/) convierte datos en información accionable por medio de plataformas de recolección, procesamiento, análisis y visualización de información, con principal enfoque en periodismo de datos, marketing científico y gobernanza. 
@@ -13,8 +13,6 @@ El departamento de desarrollo front-end está encargado de elaborar plataformas 
 * Inglés
 
 ### Responsabilidades
-* Construir y mantener sitios mediáticos de alto tráfico en Internet.
-* Coordinación de proyectos, clientes, staff interno y desarrolladores externos.
 * Planear, estimar, desarrollar y realizar actualizaciones constantes (GIT) a las plataformas en curso.
 * Entregar código probado, funcional, comentado y fácil de interpretar al término de cada semana
 * Participar en revisiones internas de código.
