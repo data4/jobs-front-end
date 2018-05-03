@@ -1,4 +1,4 @@
-# DATA4 Front-end Data-Viz Developer! [data4](http://data4.mx/assets/images/d4-logo.svg)
+# DATA4 Front-end Data-Viz Developer ![data4](http://data4.mx/assets/images/d4-logo.svg)
 ## *Departamento de Data-Driven Web Platforms*
 
 [DATA4](http://data4.mx/) convierte datos en información accionable por medio de plataformas de recolección, procesamiento, análisis y visualización de información, con principal enfoque en periodismo de datos, marketing científico y gobernanza. 
