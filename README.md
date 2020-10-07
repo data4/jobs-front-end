@@ -3,13 +3,13 @@
 
 [DATA4](http://data4.mx/) convierte datos en información accionable por medio de plataformas de recolección, procesamiento, análisis y visualización de información.
 
-El departamento de tecnología está encargado de elaborar plataformas y visualizaciones usando principalmente HTML5, CSS3, JQuery, Angular, D3js. 
+El departamento de tecnología está encargado de elaborar plataformas y visualizaciones usando principalmente HTML5, CSS3, JQuery, Vue, D3js. 
 
 ### Requerimientos
 * Experiencia usando GIT
-* Experiencia en Web Development: HTML5, CSS3 (Material Design, Bootstrap, Foundation)
+* Experiencia en Web Development: HTML5, CSS3 (Material Design - Vuetify, Bootstrap, Foundation)
 * Javascript libraries (JQuery, D3js)
-* Javascript frameworks (Angular, Vue, React)
+* Javascript frameworks (Vue, React)
 * Desarrollo ágil y actualizaciones constantes
 * Inglés
 
@@ -56,11 +56,12 @@ Hacer la interfaz responsiva utilizando Materialize o Bootstrap.
 
 La gráfica debe redibujarse cuando cambie el estado seleccionado, el año o la forma de ordenamiento, sin necesidad de botones adicionales.
 
-## Plus
+## Tech
 
-1. Seguir la guía de estilo de Angular (John Papa) [https://angular.io/guide/styleguide](https://angular.io/guide/styleguide) 
-2. Instalar dependencias usando npm
+1. Seguir la guía de estilo del framework correspondiente - Vue 3.0 ó React 
+2. Instalar dependencias usando npm o yarn
 3. Comentar y explicar el código.
+4. Implementar TDD - Unit testing con Jest + End to End con Cypres 
 
 ## Entrega
 
